@@ -53,6 +53,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maniixcode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+## 🎮 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ## 🏆 GitHub Trophies
 
