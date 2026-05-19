@@ -18,7 +18,7 @@
 - 💬 Ask me about **Java, React, APIs, MySQL & Backend Development**
 - 📫 Reach me at: **manishsonwane47@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy building systems that solve real-world problems.**
+- ⚡ Fun fact:* I debug backend errors faster after listening to sad songs*🎧
 
 ---
 
